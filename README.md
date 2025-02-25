@@ -1,4 +1,4 @@
-# modni_kursachh
+# Synthetic sample generation by large language models in the context of cross-country surveys.
 сиськи делают баунс
 
 Сейчас в проекте лежат папки 
