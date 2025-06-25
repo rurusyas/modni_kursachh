@@ -8,5 +8,5 @@
 5) pilot_results (результаты пилотного запуска)
 6) gpt data processing (код для: перевода всех вопросов + процесс сбора промтов в единое поле + ресет индексов + пилотный и основной запуски)
 7) instruction_user (таблица с языком интервью и собранными воедино Q, instr_science и insrt_ethical)
-
+8) data and code for analysis
 
